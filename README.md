@@ -185,6 +185,10 @@ Thanks!
 - [Free Python books - pythonbooks](https://www.pythonbooks.org/free-books/)
 - [Legally Free Python Books List](https://www.pythonkitchen.com/legally-free-python-books-list/)
 
+##pentestig python library
+
+https://github.com/dloss/python-pentest-tools
+
 ## License
 
 Each file in this repository is licensed under the [CC BY 4.0 License](/LICENSE).
